@@ -1,0 +1,164 @@
+[
+    {
+        "name": "Rithvik",
+        "id": 1001,
+        "status": true,
+        "location": {
+            "name": "Turtle Rock",
+            "population": 100,
+            "id": 1001,
+            "fpop": 10,
+            "distance": 49.0,
+            "coordinates": {
+                "longitude": -116.166868,
+                "latitude": 34.011286
+            },
+            "imageName": "turtlerock"
+        },
+        "dms": [
+            {
+                "id1": 1,
+                "id2": 1001,
+                "numMessages": 1,
+                "size": 256,
+                "mess": [
+                    {
+                        "contents": "Ricky is creepy",
+                        "id": 11,
+                        "index": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "gropes",
+        "id": 1002,
+        "status": true,
+        "location": {
+            "name": "Silver Salmon Creek",
+            "population": 50,
+            "id": 1002,
+            "fpop": 3,
+            "distance": 17.8,
+            "coordinates": {
+                "longitude": -152.665167,
+                "latitude": 59.980167
+            },
+            "imageName": "silversalmoncreek"
+        },
+        "dms": [
+            {
+                "id1": 1,
+                "id2": 1002,
+                "numMessages": 1,
+                "size": 256,
+                "mess": [
+                    {
+                        "contents": "Rithvik",
+                        "id": 5,
+                        "index": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "women.",
+        "id": 1003,
+        "status": false,
+        "location": {
+        "name": "Chilkoot Trail",
+        "population": 100,
+        "id": 1003,
+        "fpop": 8,
+        "distance": 15.2,
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "imageName": "chilkoottrail"
+        },
+        "dms": [
+            {
+                "id1": 1,
+                "id2": 3,
+                "numMessages": 1,
+                "size": 256,
+                "mess": [
+                    {
+                        "contents": "wack",
+                        "id": 10,
+                        "index": 4
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "name": "ball",
+        "id": 2002,
+        "status": true,
+        "location": {
+            "name": "Sharkeys",
+            "population": 22,
+            "id": 2002,
+            "fpop": 8,
+            "distance": 3.1,
+            "coordinates": {
+                "longitude": -80.41516,
+                "latitude": 37.23172
+            },
+            "imageName": "Sharkeys"
+        },
+        "dms": [
+            {
+                "id1": 1,
+                "id2": 2002,
+                "numMessages": 1,
+                "size": 256,
+                "mess": [
+                    {
+                        "contents": "sus",
+                        "id": 15,
+                        "index": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "him!",
+        "id": 69,
+        "status": false,
+        "location": {
+            "name": "Ricks",
+            "population": 0,
+            "id": 25,
+            "fpop": 8,
+            "distance": 6.9,
+            "coordinates": {
+                "longitude": -90.41516,
+                "latitude": 37.23172
+            },
+            "imageName": "cocktail4-512"
+        },
+        "dms": [
+            {
+                "id1": 1,
+                "id2": 69,
+                "numMessages": 0,
+                "size": 256,
+                "mess": [
+                    {
+                        "contents": "Ricky wack",
+                        "id": 15,
+                        "index": 5
+                    }
+                ]
+            }
+        ]
+    }
+]
+  

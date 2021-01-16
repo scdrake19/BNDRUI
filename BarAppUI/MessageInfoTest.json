@@ -1,0 +1,16 @@
+[
+    {
+        "id1": 2,
+        "id2": 3,
+        "numMessages": 0,
+        "size": 256,
+        "mess": [
+            {
+                "contents": "Ricky is creepy",
+                "id": 10010,
+                "index": 1
+            }
+        ]
+    }
+]
+ 

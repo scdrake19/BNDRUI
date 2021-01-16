@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Turtle Rock",
+        "population": 100,
+        "id": 1001,
+        "fpop": 10,
+        "distance": 49.0,
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "imageName": "turtlerock"
+    },
+    {
+        "name": "Silver Salmon Creek",
+        "population": 50,
+        "id": 1002,
+        "fpop": 3,
+        "distance": 17.8,
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "imageName": "silversalmoncreek"
+    },
+    {
+        "name": "Chilkoot Trail",
+        "population": 100,
+        "id": 1003,
+        "fpop": 8,
+        "distance": 15.2,
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "imageName": "chilkoottrail"
+    },
+    {
+        "name": "Sharkeys",
+        "population": 22,
+        "id": 2002,
+        "fpop": 8,
+        "distance": 3.1,
+        "coordinates": {
+            "longitude": -80.41516,
+            "latitude": 37.23172
+        },
+        "imageName": "Sharkeys"
+    },
+    {
+        "name": "Ricks",
+        "population": 0,
+        "id": 25,
+        "fpop": 8,
+        "distance": 6.9,
+        "coordinates": {
+            "longitude": -90.41516,
+            "latitude": 37.23172
+        },
+        "imageName": "cocktail4-512"
+    }
+]
+ 
